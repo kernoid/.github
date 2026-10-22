@@ -1,17 +1,17 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/kernoid-lockup-on-dark.svg">
-    <img src="assets/kernoid-lockup-on-light.svg" alt="Kernoid" width="480">
+    <img src="assets/kernoid-lockup-on-light.svg" alt="kernoid" width="480">
   </picture>
 </p>
 
 <p align="center"><b>One core for email, identity and storage.</b><br>
 <sub>a <a href="https://falkoss.org">falkOSS</a> project</sub></p>
 
-**Kernoid** is one self-hostable system for an organisation's core: an account is created once and is at the same
+**kernoid** is one self-hostable system for an organisation's core: an account is created once and is at the same
 time the mailbox, the login for single sign-on and the owner of files. Free software in Rust – everything included.
 
-> Kernoid is at its beginning: there is nothing to install yet. Start with the
+> kernoid is at its beginning: there is nothing to install yet. Start with the
 > [whitepaper](https://github.com/kernoid/whitepaper).
 
 ### What it is
