@@ -11,8 +11,9 @@
 **kernoid** is one self-hostable system for an organisation's core: an account is created once and is at the same
 time the mailbox, the login for single sign-on and the owner of files. Free software in Rust – everything included.
 
-> kernoid is at its beginning: there is nothing to install yet. Start with the
-> [whitepaper](https://github.com/kernoid/whitepaper).
+> **Status:** 0.1, a pre-release for trying out and testing – identity and single sign-on, mail, calendars and
+> contacts, files, a web app and a terminal app; not ready for production yet. Start with the
+> [documentation](https://kernoid.dev) or the [whitepaper](https://github.com/kernoid/whitepaper).
 
 ### What it is
 
@@ -41,9 +42,12 @@ monoid make kernoid.
 
 | Repository | What |
 |---|---|
+| [kernoid](https://github.com/kernoid/kernoid) | the server, the web app, the terminal app, the SDKs and the documentation ([kernoid.dev](https://kernoid.dev)) |
+| [apps](https://github.com/kernoid/apps) | the app for desktop and mobile (Flutter, MIT) – a first prototype |
 | [whitepaper](https://github.com/kernoid/whitepaper) | the whitepaper – Markdown, set to PDF with Typst |
-| [kernoid](https://github.com/kernoid/kernoid) | the software (not started yet) and the brand kit |
-| [website](https://github.com/kernoid/website) | the landing page |
+| [brand](https://github.com/kernoid/brand) | the brand kit – mark, wordmark, icons, colours |
+| [website](https://github.com/kernoid/website) | the landing page ([kernoid.org](https://kernoid.org)) |
+| [.github](https://github.com/kernoid/.github) | this profile and the organisation's community defaults |
 
 ### Contribute
 
