@@ -33,10 +33,20 @@ time the mailbox, the login for single sign-on and the owner of files. Free soft
 
 ### The name
 
+```
+Kern    German      → core
+kerno   Esperanto   → core
+kerno + id          → kernoid
+kern0id, 0 as o     → kerno.id
+kern0id, without 0  → kern.id
+kernoid, OIDC       → OpenID Connect
+```
+
 *Kern* is German for core, and *kerno* is Esperanto for core. Both are in the wordmark `kern0id`: read the 0 as
-an o and it says **kerno.id**, leave it out and it says **kern.id** – the core, with identity. kernoid joins the two:
-*kerno* and *id*. The *oid* also winks at OpenID Connect (OIDC), the protocol kernoid logs people in with, and, as
-an aside, at mathematics: the kernel of a map, and *-oid* as in monoid – kernel and monoid make kernoid.
+an o and it says **kerno.id**, leave it out and it says **kern.id** – the core, with identity; the dot in the 0 is
+the dot of the domain. kernoid joins the two: *kerno* and *id*. The *oid* also winks at OpenID Connect (OIDC), the
+protocol kernoid logs people in with, and, as an aside, at mathematics: the kernel of a map, and *-oid* as in monoid –
+kernel and monoid make kernoid.
 
 ### Repositories
 
